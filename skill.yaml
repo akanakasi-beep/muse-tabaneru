@@ -1,0 +1,5 @@
+name: "tabaneru"
+title: "束ねる作法 — File-Based Thread Orchestration"
+description: "Run disposable sub-threads and side chats without losing their work: one job per folder, state and harvest in files, a structured handover when a thread folds, and an index that is folded, never deleted."
+category: "Work and knowledge"
+include_in_prompt: false
